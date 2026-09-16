@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raj Shekhar
+# 👋 Hi, I'm Thalabattula Raj Shekhar
 
 ### 🎯 Data Science | Data Analytics | Generative AI | Business Intelligence
 
